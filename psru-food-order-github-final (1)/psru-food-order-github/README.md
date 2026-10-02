@@ -32,7 +32,7 @@ PSRU-Food-Order/
 
 ## วิธีทดลองระบบ
 เปิดไฟล์ `client/index.html` ด้วยเว็บเบราว์เซอร์
+file:///C:/Users/asus/Downloads/PSRU_FoodOrder%20(3).html
 
 ## หมายเหตุ
 เวอร์ชันปัจจุบันเป็นส่วน Frontend ของระบบ และมีไฟล์ `database.sql` สำหรับโครงสร้างฐานข้อมูลเบื้องต้นตามแบบจำลองของโครงงาน
-file:///C:/Users/asus/Downloads/PSRU_FoodOrder%20(3).html
